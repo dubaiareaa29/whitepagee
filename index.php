@@ -9,6 +9,15 @@ require_once('adwordscloaker.php');
         <link href="<?php echo $baseur; ?>/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
         <!-- Custom styles for this template -->
         <link href="<?php echo $baseur; ?>/assets/css/style.css" rel="stylesheet" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YCL7SWESZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YCL7SWESZK');
+</script>
     </head>
     <body>
         <!-- Navigation -->
