@@ -10,14 +10,14 @@
 		<link rel="stylesheet" href="css/main.css">
 	<script type="text/javascript" src="script_land.js" defer></script>
 	<style>.dtpcnt{opacity: 0;}</style>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-E6PK9D0F0M"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YCL7SWESZK"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-E6PK9D0F0M');
+  gtag('config', 'G-YCL7SWESZK');
 </script>
 	</head>
 	<body>
